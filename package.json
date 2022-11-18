@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Chalkman071/test_repo/issues"
   },
-  "homepage": "https://github.com/Chalkman071/test_repo#readme"
+  "homepage": "https://github.com/Chalkman071/test_repo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
