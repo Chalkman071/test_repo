@@ -1,3 +1,3 @@
 # test_repo
 
-Hi git!
+Hi terminal!
